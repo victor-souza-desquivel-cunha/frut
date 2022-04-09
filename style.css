@@ -1,0 +1,14 @@
+body{
+background: #EE3754;
+display: flex;
+}
+
+img{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    left: 765px;
+    top: 0px;
+    
+    background: url(Frame 1.png);
+}
